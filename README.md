@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sung Woo Min, just call me Steve!
-- 👀 I love creating beautiful software and designs that will leave a positive impact to the community.
+- 👀 I love creating beautiful software and designs.
 - 🌱 I’m currently learning React Native CLI.
 - 📫 How to reach me: sm2598@cornell.edu
 
